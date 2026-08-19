@@ -9,7 +9,7 @@ Cobre anúncios, ganchos, ângulos, corpos, microleads, leads, VSL e ofertas, em
 ## Instalação
 
 ```bash
-git clone https://github.com/brinquedo69/skill-copy-dr-lens.git ~/.claude/skills/copy-dr
+git clone https://github.com/jgamparado/skill-copy-dr-lens.git ~/.claude/skills/copy-dr
 ```
 
 Pronto. Funciona em **qualquer projeto** — `~/.claude/skills/` é o diretório de skills pessoais do Claude Code.
@@ -17,7 +17,7 @@ Pronto. Funciona em **qualquer projeto** — `~/.claude/skills/` é o diretório
 **Para um projeto específico** em vez de global:
 
 ```bash
-git clone https://github.com/brinquedo69/skill-copy-dr-lens.git <projeto>/.claude/skills/copy-dr
+git clone https://github.com/jgamparado/skill-copy-dr-lens.git <projeto>/.claude/skills/copy-dr
 ```
 
 ---
